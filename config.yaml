@@ -2,7 +2,7 @@ baseurl: /
 publishDir: "../matweldon.github.io"
 languageCode: en-us
 title: Mat's test website
-theme: hugo-lithium
+theme: hugo-xmin
 googleAnalytics: ''
 disqusShortname: ''
 ignoreFiles:
