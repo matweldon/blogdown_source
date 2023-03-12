@@ -1,6 +1,6 @@
 ---
 date: "2022-09-28"
-title: Furlough and Idleness
+title: "Furlough and Idleness"
 ---
 
 ### 'Don't just do something -- stand there!'
