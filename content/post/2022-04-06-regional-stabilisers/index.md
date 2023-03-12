@@ -3,6 +3,8 @@ date: "2022-04-06T21:49:57-07:00"
 title: Regional Automatic Stabilisers
 ---
 
+_This post is just an experiment to see if I can make a workflow from handwritten notes on my iPad to publication quickly. It's not a full post but a fragment of ideas I wrote freehand and then converted using iPad's built-in text conversion tools._
+
 # Regional automatic stabilisers
 
 Tom Forth writes that it is unfair that the South East contributes more than its fair share
@@ -63,4 +65,4 @@ Minimum wage
 _ Land value taxes
 . Graduate taxes
 Is Council Tax (a Corporation tax) currently
-regressive with cost of land?
+regressive with respect to cost of land?
