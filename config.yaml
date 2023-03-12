@@ -1,7 +1,7 @@
 baseurl: /
 publishDir: "../matweldon.github.io"
 languageCode: en-us
-title: Mat's test website
+title: Mat Weldon
 theme: hugo-xmin
 googleAnalytics: ''
 disqusShortname: ''
@@ -18,14 +18,14 @@ menu:
   main:
     - name: About
       url: /about/
-    - name: GitHub
-      url: https://github.com/weldons-hub
-    - name: Twitter
-      url: https://twitter.com/mat_weldon
     - name: Projects
       url: /projects/
     - name: Blog
       url: /post/
+    - name: GitHub
+      url: https://github.com/matweldon
+    - name: Twitter
+      url: https://twitter.com/mat_weldon
 params:
   MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
   MathJaxVersion: 2.7.5
