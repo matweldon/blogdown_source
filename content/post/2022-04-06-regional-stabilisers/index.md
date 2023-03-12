@@ -1,23 +1,29 @@
+---
+date: "2022-104-06T21:49:57-07:00"
+title: Regional Automatic Stabilisers
+---
+
 # Regional automatic stabilisers
 
 Tom Forth writes that it is unfair that the South East contributes more than its fair share
-to public services. It's an important point. Regional inequality affects all developed nations
-to some extent, and in most places the problem
-is getting worse. But at the same time he invokes the notion of solidarity: if the South East did not pay more than it's fair share towards
+to public services. It's an important point.
+Regional inequality affects all developed nations to some extent, and in most places the problem
+is getting worse.
+But at the same time he invokes the notion of solidarity:
+if the South East did not pay more than it's fair share towards
 the nation's public services an important part
 of the pact that holds the country together would
 be broken. So what is regional justice?
 How does regional inequality arise?
-→ through agglomeration, partly, but that
+
+* through agglomeration, partly, but that
 doesn't explain how large cities in other parts of
 the country don't reap agglomeration benefits
-→ Through political capture by south East interelts-
+* Through political capture by south East interelts-
 possibly would explain transport
-→ Through immigration t sorting of highly-motivated,
+* Through immigration t sorting of highly-motivated,
 talented people.
-→ Skill-biased technical change means HK
-
- The South suffers from high cost of
+* Skill-biased technical change means that the South suffers from high cost of
 living, unaffordable housing, insufficient public
 sector wages. The North sufters from lack of investment,
 public sector crowding out private sector, thin labour
