@@ -1,6 +1,7 @@
 ---
 date: "2022-04-06T21:49:57-07:00"
 title: Regional Automatic Stabilisers
+draft: true
 ---
 
 _This post is just an experiment to see if I can make a workflow from handwritten notes on my iPad to publication quickly. It's not a full post but a fragment of ideas I wrote freehand and then converted using iPad's built-in text conversion tools._
