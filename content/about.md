@@ -25,6 +25,7 @@ seriously.
 I endeavour not to express any opinions that would bring my integrity, honesty, objectivity and impartiality into doubt.
 However, as a junior civil servant in a non-policy role, I give myself more leeway to express
 measured views than I would if I were in a more policy-sensitive role in the heart of government.
+
 I hope that writing down my analysis of broad topics in public policy
 (but steering clear of specifics of government policy,
 and especially areas where I've been professionally involved)
@@ -39,4 +40,5 @@ Please do get in touch if you see anything here that you think isn't compatible 
 I published some of the blog posts on here after a long delay, and in the process lost the original dates,
 so some of the blog dates are approximate, or are complete guesses.
 This means you should take it with a pinch of salt if I use any blog posts here as proof of prophetic foresight! 😉
+
 The website is made using the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
