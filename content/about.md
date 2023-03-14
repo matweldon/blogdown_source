@@ -23,14 +23,7 @@ As a civil servant, I take my responsibilities to comply with the
 [Civil Service Code](https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code) 
 seriously.
 I endeavour not to express any opinions that would bring my integrity, honesty, objectivity and impartiality into doubt.
-However, as a junior civil servant in a non-policy role, I give myself more leeway to express
-measured views than I would if I were in a more policy-sensitive role in the heart of government.
-
-I hope that writing down my analysis of broad topics in public policy
-(but steering clear of specifics of government policy,
-and especially areas where I've been professionally involved)
-will help me develop a coherent analytical framework that will make me better at my job.
-Please do get in touch if you see anything here that you think isn't compatible with my public service role.
+Please get in touch if you see anything here that you think isn't compatible with my public service role.
 
 
 ****
@@ -38,5 +31,8 @@ Please do get in touch if you see anything here that you think isn't compatible 
 ### Website details
 
 Some of the blog posts on this site are republished from a previous Wordpress site.
+Because the date of original publishing has been lost,
+they are published under the date when they were transferred to the archive -- 3 September, 2021 -- 
+which is not the date when they were published on this site.
 
 The website is made using the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
