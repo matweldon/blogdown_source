@@ -37,8 +37,6 @@ Please do get in touch if you see anything here that you think isn't compatible 
 
 ### Website details
 
-I published some of the blog posts on here after a long delay, and in the process lost the original dates,
-so some of the blog dates are approximate, or are complete guesses.
-This means you should take it with a pinch of salt if I use any blog posts here as proof of prophetic foresight! 😉
+Some of the blog posts on this site are republished from a previous Wordpress site.
 
 The website is made using the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
