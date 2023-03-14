@@ -1,5 +1,5 @@
 ---
-date: "2019-07-23"
+date: "2021-09-03"
 title: "Game Theory Cliches"
 ---
 
